@@ -1,3 +1,3 @@
-# latex-report-template
+# IRS Summary
 
-To use this template add GH_TOKEN secret
+Summary for the course [Intelligent Robotic Systems](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/447106) @ University of Bologna
